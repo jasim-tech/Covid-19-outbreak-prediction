@@ -1,0 +1,8 @@
+-->Project Name:COVID-19 outbreak prediction using machine learning.
+
+-->Dataset contains total confirm cases of last 234 days.
+-->Project is based on Linear Regression algorithm.
+-->Model is capable to predict total confirm cases for any particular days.
+
+
+                ----->Thanks<-----
